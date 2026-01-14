@@ -171,14 +171,6 @@ GMX uses market tokens (GM tokens) to identify trading pairs and liquidity pools
 
 Feel free to submit issues or pull requests to improve the tutorial exercises or documentation.
 
-## Author
-
-**Onatola Timilehin Faruq**
-Protocol Integration Engineer | DeFi | Full-Stack Blockchain Developer
-
-- GitHub: [@Leihyn](https://github.com/Leihyn)
-- Currently: Junior Blockchain Engineer at DeFiConnectCredit - Integrating Aave v3, Uniswap v3/v4, Curve, GMX
-
 ## License
 
 This project is for educational purposes.
